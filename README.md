@@ -34,7 +34,7 @@
 - **"Confirm" Button**  
 `Storing set label to "setting.set" files under the root path of the programm.`
 
-This programme has been tested under Python 3.12.1, all the required packages are summa rized in requirements.txt. 
+This programme has been tested under Python 3.12.1, all the required packages are summarized in requirements.txt. 
 
 ---
 ## License
